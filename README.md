@@ -1,6 +1,6 @@
 # Michelin Star Restaurant Dashboard
 
-# Product Owner
+### Product Owner
 Your PO is assigned as an approver and feedback for your application. They are not there to guide you through code. If you have code related needs, submit a completed issue ticket.
 
 PO: **Trinity**
