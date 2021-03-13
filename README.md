@@ -6,9 +6,9 @@ Your PO is assigned as an approver and feedback for your application. They are n
 PO: **Trinity**
 
 ### Description
-Welcome to Le Baguette.  The only restaurant in the world to have to have 27 Michelin stars. Le Baguette is a asian, russian, german, and french fusion restaurant using only the freshest ingredients from local farms.
+Welcome to Laissez les bons Temps Roulere.  The only restaurant in the world to have to have 27 Michelin stars. Laissez les bons Temps Roulere is a creole, soul food fusion restaurant using only the freshest ingredients from local farms.
 
-Now that Le Baguette has received its 27th star its owners would like to bring the restaurant into the modern age and build it a nice website.  You will be helping them keep track of staff, ingredients, reservations, and Menu Items.
+Now that Laissez les bons Temps Rouler has received its 27th star its owners would like to bring the restaurant into the modern age and build it a nice application.  You will be helping them keep track of staff, ingredients, reservations, and Menu Items.
 
 ### Requirements
 * Complete Planning
